@@ -50,7 +50,7 @@
    - ![Project 3 Image](link-to-image-3)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmodKamat&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![Amod Kamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmodKamat&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmodKamat&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmodKamat&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
